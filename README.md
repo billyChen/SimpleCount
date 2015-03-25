@@ -1,0 +1,2 @@
+# SimpleCount
+Simple calculator Java
